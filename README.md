@@ -1,4 +1,4 @@
-![t](images/t.png)
+![t](images/t.JPEG)
 ## Introduction
 Blockchain is one the greatest technological innovations since the Internet. The Internet empowers free flow of information, while the Blockchain empowers frictionless flow of value. Companies from various disciplines are now adopting Blockchain for real-world business use cases. The amount of research going on in applied cryptography is unprecedented. We are right now experiencing the largest civilian deployment of public key cryptography ever, and that is the Bitcoin.
 While Blockchain is very interesting technology, it is also nascent. It is challenging to do a rapid prototype of a blockchain application and run it on Cloud. Tendermint allows you to rapidly create Blockchain application as it handles the underlying blockchain layers such as networking and consensus, and allows the developer to only focus on application layer through ABCI (Application Blockchain Interface)
