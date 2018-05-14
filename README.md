@@ -204,7 +204,7 @@ $ touch .env-node2
 ```
 LOTION_HOME="./.lotion_node2"
 ```
-7. Create node1.js 
+7. Create node2.js 
 ```
 $ touch node2.js
 ```
