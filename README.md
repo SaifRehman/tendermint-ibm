@@ -398,7 +398,7 @@ main()
 ```
 ## Summary
 
-Tendermint has made it easy for business developers to write blockchain applications, and the IBM Cloud made it easy to deploy and operate such applications. I look forward to seeing your blockchain applications!
+Tendermint has made it easy for business developers to write blockchain applications, and the IBM Cloud made it easy to deploy and operate such applications.
 
 ## References
 
