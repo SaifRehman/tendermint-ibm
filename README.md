@@ -117,7 +117,7 @@ $ ./node_modules/lotion/bin/tendermint gen_validator > privkey1.json
 
 1. Create node1 folder
 ```
-touch node1
+mkdir node1
 ``` 
 2. Navigate to node1 directory
 ```
@@ -184,7 +184,7 @@ CMD [ "node", "node1.js" ]
 
 1. Create node1 folder
 ```
-touch node2
+mkdir node2
 ``` 
 2. Navigate to node1 directory
 ```
