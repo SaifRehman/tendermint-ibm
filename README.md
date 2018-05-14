@@ -1,4 +1,19 @@
 ![t](images/t.jpg)
+
+## Learning objectives
+
+The aim of this tutorial is to show you how to easily deploy Proof of Stake Blockchain to IBM Container as 2 validator node using Tendermint and LotionJs
+
+## Prerequisites
+
+* Install IBM Cloud CLI, see the [IBM Cloud documentation](https://console.bluemix.net/docs/cli/reference/bluemix_cli/get_started.html)
+* Install Docker, see the [Docker documentation](https://docs.docker.com/engine/installation/)
+* Install and Setup Kubectl, see the [Kubernetes documentation](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
+
+## Estimated time
+
+It will take around 60 minutes roughly to deploy 2 validator node to IBM Cloud.
+
 ## Introduction
 Blockchain is one the greatest technological innovations since the Internet. The Internet empowers free flow of information, while the Blockchain empowers frictionless flow of value. Companies from various disciplines are now adopting Blockchain for real-world business use cases. The amount of research going on in applied cryptography is unprecedented. We are right now experiencing the largest civilian deployment of public key cryptography ever, and that is the Bitcoin.
 While Blockchain is very interesting technology, it is also nascent. It is challenging to do a rapid prototype of a blockchain application and run it on Cloud. Tendermint allows you to rapidly create Blockchain application as it handles the underlying blockchain layers such as networking and consensus, and allows the developer to only focus on application layer through ABCI (Application Blockchain Interface)
@@ -18,20 +33,6 @@ To simply put Tendermint is a software which can be used to achieve Byzantine fa
 
 ### What is Lotionjs
 Lotion is a new way to create blockchain apps in JavaScript, which aims to make writing new blockchains fast and fun. It builds on top of Tendermint using the ABCI protocol.
-
-## Learning objectives
-
-The aim of this tutorial is to show you how to easily deploy Proof of Stake Blockchain to IBM Container as 2 validator node using Tendermint and LotionJs
-
-## Prerequisites
-
-* Install IBM Cloud CLI, see the [IBM Cloud documentation](https://console.bluemix.net/docs/cli/reference/bluemix_cli/get_started.html)
-* Install Docker, see the [Docker documentation](https://docs.docker.com/engine/installation/)
-* Install and Setup Kubectl, see the [Kubernetes documentation](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
-
-## Estimated time
-
-It will take around 60 minutes roughly to deploy 2 validator node to IBM Cloud.
 
 ## Steps
 
